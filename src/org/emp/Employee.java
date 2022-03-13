@@ -20,6 +20,12 @@ public class Employee {
 	private void empAddress() {
 		System.out.println("empAddress");
 	}
+	private void empNew() {
+		System.out.println("Nwes");
+	}
+	private void empKevin() {
+		System.out.println("Wewew");
+	}
 	
 	public static void main(String[] args) {
 		Employee E = new Employee();
